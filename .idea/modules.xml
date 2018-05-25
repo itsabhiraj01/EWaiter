@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EWaiter.iml" filepath="$PROJECT_DIR$/EWaiter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidEWaiter.iml" filepath="$PROJECT_DIR$/AndroidEWaiter.iml" />
+      <module fileurl="file://C:\Users\ABHIRAJ\AndroidStudioProjects\AndroidEWaiter\EWaiter.iml" filepath="C:\Users\ABHIRAJ\AndroidStudioProjects\AndroidEWaiter\EWaiter.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

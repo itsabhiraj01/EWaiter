@@ -72,6 +72,7 @@
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity android:name=".PaymentOptions"
             android:label="Payment Options"/>
+
         <activity android:name=".PaytmQR"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"></activity>
     </application>
