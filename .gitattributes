@@ -1,2 +1,2 @@
 * linguist-vendored
-*.android linguist-vendored=false
+*.java .xml linguist-vendored=false
